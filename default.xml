@@ -10,6 +10,9 @@
 
   <remote  name="Mahdi-Rom"
            fetch="git://github.com" />
+           
+  <remote name="Chintan1998"
+          fetch="git://github.com" />
 
   <default revision="refs/tags/android-4.4.2_r1"
            remote="aosp"
@@ -266,7 +269,7 @@
   <project path="external/zlib" name="Mahdi-Rom/android_external_zlib" groups="pdk" remote="Mahdi-Rom" revision="kk-4.4" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="Mahdi-Rom/android_frameworks_av" groups="pdk" remote="Mahdi-Rom" revision="kk-4.4" />
-  <project path="frameworks/base" name="Mahdi-Rom/android_frameworks_base" remote="Mahdi-Rom" revision="kk-4.4" />
+  <project path="frameworks/base" name="Chintan1998/android_frameworks_base" remote="Chintan1998" revision="kk-4.4" />
   <project path="frameworks/compile/libbcc" name="Mahdi-Rom/android_frameworks_compile_libbcc" groups="pdk" remote="Mahdi-Rom" revision="kk-4.4" />
   <project path="frameworks/compile/mclinker" name="Mahdi-Rom/android_frameworks_compile_mclinker" groups="pdk" remote="Mahdi-Rom" revision="kk-4.4" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
@@ -366,7 +369,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <project path="packages/apps/ScreenRecorder" name="Mahdi-Rom/android_packages_apps_ScreenRecorder" remote="Mahdi-Rom" revision="kk-4.4" />
-  <project path="packages/apps/Settings" name="Mahdi-Rom/android_packages_apps_Settings" remote="Mahdi-Rom" revision="kk-4.4" />
+  <project path="packages/apps/Settings" name="Chintan1998/android_packages_apps_Settings" remote="Chintan1998" revision="kk-4.4" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
