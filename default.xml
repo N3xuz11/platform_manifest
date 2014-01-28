@@ -262,7 +262,7 @@
   <project path="external/zlib" name="TheSchismROM/android_external_zlib" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="TheSchismROM/android_frameworks_av" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="frameworks/base" name="Chintan1998/android_frameworks_base" remote="Chintan1998" revision="kk-4.4" />
+  <project path="frameworks/base" name="TheSchismROM/android_frameworks_base" remote="github" revision="kk-4.4" />
   <project path="frameworks/compile/libbcc" name="TheSchismROM/android_frameworks_compile_libbcc" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="frameworks/compile/mclinker" name="TheSchismROM/android_frameworks_compile_mclinker" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
@@ -362,7 +362,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <project path="packages/apps/ScreenRecorder" name="TheSchismROM/android_packages_apps_ScreenRecorder" remote="github" revision="kk-4.4" />
-  <project path="packages/apps/Settings" name="Chintan1998/android_packages_apps_Settings" remote="Chintan1998" revision="kk-4.4" />
+  <project path="packages/apps/Settings" name="TheSchismROM/android_packages_apps_Settings" remote="github" revision="kk-4.4" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -467,7 +467,7 @@
   <!--CyanogenMod Power Hal -->
   <project path="hardware/cm" name="TheSchismROM/android_hardware_cm" remote="github" revision="kk-4.4" />
 
-  <project path="vendor/mahdi" name="Chintan1998/android_vendor_mahdi" remote="Chintan1998" revision="kk-4.4" />
+  <project path="vendor/mahdi" name="TheSchismROM/android_vendor_mahdi" remote="github" revision="kk-4.4" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="TheSchismROM/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="kk-4.4" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="TheSchismROM/android_vendor_tmobile_libs_com.tmobile.themes" remote="github" revision="kk-4.4" />
