@@ -13,6 +13,9 @@
 
   <remote name="Mahdi-Rom"
           fetch="git://github.com/" />
+          
+  <remote name="TheSchism"
+          fetch="https://github.com" />
 
   <project path="build" name="TheSchismROM/android_build" groups="pdk" remote="github" revision="kk-4.4" >
     <copyfile src="core/root.mk" dest="Makefile" />
