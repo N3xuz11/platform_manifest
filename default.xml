@@ -361,7 +361,7 @@
   <project path="packages/apps/Launcher2" name="TheSchismROM/android_packages_apps_Launcher2" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
-  <project path="packages/apps/MahdiCenter" name="TheSchismROM/android_packages_apps_MahdiCenter" remote="github" revision="kk-4.4" />
+  <project path="packages/apps/MahdiCenter" name="Mahdi-Rom/android_packages_apps_MahdiCenter" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Mms" name="TheSchismROM/android_packages_apps_Mms" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
