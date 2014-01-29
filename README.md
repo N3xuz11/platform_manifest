@@ -1,5 +1,5 @@
 <h4>
-The Schism- Manifest
+The Schism - Android Manifest
 </h4>
 You know the drill of course. :) Well you should..if not, you might want to look up a guide to build and sync from sources.
 

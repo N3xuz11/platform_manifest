@@ -484,7 +484,7 @@
   <project path="device/samsung/galaxys2-common" name="TheSchismROM/android_device_samsung_galaxys2-common" remote="github" revision="kk-4.4" />
   -->
 
-  <!--CyanogenMod Power Hal -->
+  <!--CyanogenMod Extras -->
   <project path="hardware/cm" name="TheSchismROM/android_hardware_cm" remote="github" revision="kk-4.4" />
 
   <!-- The Schism Vendor -->
