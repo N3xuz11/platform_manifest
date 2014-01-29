@@ -344,7 +344,7 @@
   <project path="packages/apps/Camera2" name="TheSchismROM/android_packages_apps_Camera2" remote="github" revision="kk-4.4" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
-  <project path="packages/apps/CMFileManager" name="TheSchismROM/android_packages_apps_CMFileManager" remote="github" revision="kk-4.4" />
+  <project path="packages/apps/CMFileManager" name="Mahdi-Rom/android_packages_apps_CMFileManager" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Contacts" name="TheSchismROM/android_packages_apps_Contacts" remote="github" revision="kk-4.4" />
   <project path="packages/apps/ContactsCommon" name="TheSchismROM/android_packages_apps_ContactsCommon" remote="github" revision="kk-4.4" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" />
@@ -486,9 +486,9 @@
 
   <project path="vendor/schism" name="TheSchismROM/android_vendor_schism" remote="github" revision="kk-4.4" />
 
-  <project path="vendor/tmobile/apps/ThemeChooser" name="Mahdi-Rom/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="kk-4.4" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="Mahdi-Rom/android_vendor_tmobile_libs_com.tmobile.themes" remote="github" revision="kk-4.4" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="Mahdi-Rom/android_vendor_tmobile_providers_ThemeManager" remote="github" revision="kk-4.4" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="TheSchismROM/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="kk-4.4" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="TheSchismROM/android_vendor_tmobile_libs_com.tmobile.themes" remote="github" revision="kk-4.4" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="TheSchismROM/android_vendor_tmobile_providers_ThemeManager" remote="github" revision="kk-4.4" />
   
 
 </manifest>
