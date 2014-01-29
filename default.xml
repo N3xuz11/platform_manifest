@@ -44,9 +44,10 @@
   <project path="device/asus/flo" name="Mahdi-Rom/android_device_asus_flo" remote="github" revision="kk-4.4" />
   <project path="device/asus/flo-kernel" name="Mahdi-Rom/android_device_asus_flo-kernel" remote="github" revision="kk-4.4" />
   <project path="device/asus/grouper" name="Mahdi-Rom/android_device_asus_grouper" remote="github" revision="kk-4.4" />
-  <project path="device/lge/hammerhead" name="TheSchismROM/android_device_lge_hammerhead" remote="github" revision="kk-4.4" />
-  <project path="device/lge/mako" name="TheSchismROM/android_device_lge_mako" remote="github" revision="kk-4.4" />
-  <project path="device/lge/mako-kernel" name="TheSchismROM/android_device_lge_mako-kernel" remote="github" revision="kk-4.4" />
+  <project path="device/lge/hammerhead" name="TheSchismROM/android_device_lge_hammerhead" groups="device,hammerhead" remote="github" revision="kk-4.4" />
+  <project path="device/lge/mako" name="TheSchismROM/android_device_lge_mako" groups="device,mako" remote="github" revision="kk-4.4" />
+  <project path="device/lge/hammerhead-kernel" name="device/lge/hammerhead-kernel" groups="device,hammerhead" />
+  <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" />
   
   <!-- I should really find out what there are for -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
