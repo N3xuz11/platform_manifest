@@ -489,10 +489,13 @@
   <!--CyanogenMod Extras -->
   <project path="hardware/cm" name="TheSchismROM/android_hardware_cm" remote="github" revision="kk-4.4" />
 
-  <!-- The Schism Vendor -->
+  <!-- The Schism Vendor Projects -->
   <project path="vendor/schism" name="TheSchismROM/android_vendor_schism" remote="github" revision="kk-4.4" >
     <copyfile src="build.sh" dest="build.sh" />
   </project>
+  <project path="vendor/lge" name="TheSchismROM/android_vendor_lge" remote="github" revision="kk-4.4" />
+  <project path="vendor/qcom" name="TheSchismROM/android_vendor_qcom" remote="github" revision="kk-4.4" />
+  <project path="vendor/broadcom" name="TheSchismROM/android_vendor_broadcom" remote="github" revision="kk-4.4" />
   <project path="packages/apps/MahdiCenter" name="Mahdi-Rom/android_packages_apps_MahdiCenter" remote="github" revision="kk-4.4" />
 
 </manifest>
