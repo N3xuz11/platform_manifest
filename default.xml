@@ -489,12 +489,6 @@
   <project path="hardware/cm" name="TheSchismROM/android_hardware_cm" remote="github" revision="kk-4.4" />
   <project path="packages/apps/VoicePlus" name="Mahdi-Rom/android_packages_apps_VoicePlus" remote="github" revision="kk-4.4" />
 
-  <!-- The Schism Vendor -->
-  <project path="vendor/schism" name="TheSchismROM/android_vendor_schism" remote="github" revision="kk-4.4" >
-    <copyfile src="build.sh" dest="build.sh" />
-  </project>
-  <project path="packages/apps/MahdiCenter" name="Mahdi-Rom/android_packages_apps_MahdiCenter" remote="github" revision="kk-4.4" />
-
   <!-- The Schism Vendor Projects -->
   <project path="vendor/schism" name="TheSchismROM/android_vendor_schism" remote="github" revision="kk-4.4" >
     <copyfile src="build.sh" dest="build.sh" />
