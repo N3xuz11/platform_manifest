@@ -386,7 +386,7 @@
   <!-- Package Providers -->
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
-  <project path="packages/providers/ContactsProvider" name="TheSchismROM_packages_providers_ContactsProvider" />
+  <project path="packages/providers/ContactsProvider" name="TheSchismROM/android_packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" />
   <project path="packages/providers/MediaProvider" name="TheSchismROM/android_packages_providers_MediaProvider" remote="github" revision="kk-4.4" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
