@@ -265,7 +265,7 @@
   <project path="external/gson" name="Mahdi-Rom/android_external_gson" remote="github" revision="kk-4.4" />
 
   <!-- Frameworks for Android -->
-  <project path="frameworks/av" name="TheSchismROM/android_frameworks_av" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="frameworks/av" name="TheSchismROM/android_frameworks_av" groups="pdk" remote="github" revision="kk-4.4-aosp" />
   <project path="frameworks/base" name="TheSchismROM/android_frameworks_base" remote="github" revision="kk-4.4" />
   <project path="frameworks/compile/libbcc" name="TheSchismROM/android_frameworks_compile_libbcc" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="frameworks/compile/mclinker" name="TheSchismROM/android_frameworks_compile_mclinker" groups="pdk" remote="github" revision="kk-4.4" />
@@ -273,7 +273,7 @@
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
-  <project path="frameworks/native" name="TheSchismROM/android_frameworks_native" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="frameworks/native" name="TheSchismROM/android_frameworks_native" groups="pdk" remote="github" revision="kk-4.4-aosp" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" />
   <project path="frameworks/opt/colorpicker" name="TheSchismROM/android_frameworks_opt_colorpicker" remote="github" revision="kk-4.4" />
@@ -300,8 +300,8 @@
   <project path="hardware/broadcom/libbt" name="TheSchismROM/android_hardware_broadcom_libbt" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="hardware/broadcom/wlan" name="TheSchismROM/android_hardware_broadcom_wlan" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="hardware/invensense" name="TheSchismROM/android_hardware_invensense" groups="invensense" remote="github" revision="kk-4.4" />
-  <project path="hardware/libhardware" name="TheSchismROM/android_hardware_libhardware" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="hardware/libhardware_legacy" name="TheSchismROM/android_hardware_libhardware_legacy" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="hardware/libhardware" name="TheSchismROM/android_hardware_libhardware" groups="pdk" remote="github" revision="kk-4.4-aosp" />
+  <project path="hardware/libhardware_legacy" name="TheSchismROM/android_hardware_libhardware_legacy" groups="pdk" remote="github" revision="kk-4.4-aosp" />
   <project path="hardware/qcom/audio" name="TheSchismROM/android_hardware_qcom_audio" groups="qcom" remote="github" revision="kk-4.4" />
   <project path="hardware/qcom/audio-caf" name="TheSchismROM/android_hardware_qcom_audio-caf" groups="qcom" remote="github" revision="kk-4.4" />
   <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" groups="qcom" />
@@ -335,7 +335,7 @@
   <project path="packages/apps/Calculator" name="TheSchismROM/android_packages_apps_Calculator" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Calendar" name="TheSchismROM/android_packages_apps_Calendar" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />  
-  <project path="packages/apps/Camera2" name="TheSchismROM/android_packages_apps_Camera2" remote="github" revision="kk-4.4" />
+  <project path="packages/apps/Camera2" name="TheSchismROM/android_packages_apps_Camera2" remote="github" revision="kk-4.4-aosp" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="TheSchismROM/android_packages_apps_Contacts" remote="github" revision="kk-4.4" />
@@ -346,7 +346,7 @@
   <project path="packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
-  <project path="packages/apps/Gallery2" name="TheSchismROM/android_packages_apps_Gallery2" remote="github" revision="kk-4.4" />
+  <project path="packages/apps/Gallery2" name="TheSchismROM/android_packages_apps_Gallery2" remote="github" revision="kk-4.4-aosp" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/InCallUI" name="TheSchismROM/android_packages_apps_InCallUI" remote="github" revision="kk-4.4" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
