@@ -156,8 +156,8 @@
   <project path="external/junit" name="platform/external/junit" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
   <project path="external/kissfft" name="Mahdi-Rom/android_external_kissfft" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="external/koush/Superuser" name="Mahdi-Rom/android_external_koush_Superuser" remote="github" revision="kk-4.4" />
-  <project path="external/koush/Widgets" name="Mahdi-Rom/android_external_koush_Widgets" remote="github" revision="kk-4.4" />
+  <project path="external/koush/Superuser" name="TheSchismROM/android_external_koush_Superuser" remote="github" revision="kk-4.4" />
+  <project path="external/koush/Widgets" name="TheSchismROM/android_external_koush_Widgets" remote="github" revision="kk-4.4" />
   <project path="external/koush/ion" name="Mahdi-Rom/android_external_koush_ion" remote="github" revision="kk-4.4" />
   <project path="external/koush/AndroidAsync" name="Mahdi-Rom/android_external_koush_AndroidAsync" remote="github" revision="kk-4.4" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" />
