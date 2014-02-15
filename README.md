@@ -9,8 +9,8 @@ $ repo sync -j4
 
 You may change the "4" if your internet is really really fast and your computer is boss.
 
-If you would like to help us and contribute to our code, please do either by pull requests or even contact me with the changed files and we will see if we can merge it into our sources. Thank you.
+If you would like to help us and contribute to our code, please do either by pull requests, upload changes to gerrit which is a public one on http://review.gerrithub.io or even contact me with the changed files and we will see if we can merge it into our sources. Thank you.
 
 <b>
 The Schism Team
-</b>
+</b>s
