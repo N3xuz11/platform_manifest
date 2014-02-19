@@ -41,17 +41,18 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" groups="pdk" />
-  <project path="device/asus/flo" name="Mahdi-Rom/android_device_asus_flo" remote="github" revision="kk-4.4" />
-  <project path="device/asus/flo-kernel" name="Mahdi-Rom/android_device_asus_flo-kernel" remote="github" revision="kk-4.4" />
-  <project path="device/asus/grouper" name="Mahdi-Rom/android_device_asus_grouper" remote="github" revision="kk-4.4" />
+  
+  <!-- Nexus Device Projects -->
   <project path="device/lge/hammerhead" name="TheSchismROM/android_device_lge_hammerhead" groups="device,hammerhead" remote="github" revision="kk-4.4" />
   <project path="device/lge/mako" name="TheSchismROM/android_device_lge_mako" groups="device,mako" remote="github" revision="kk-4.4" />
   <project path="device/lge/hammerhead-kernel" name="device/lge/hammerhead-kernel" groups="device,hammerhead" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" />
+  
+  <!-- Nexus Kernel Projects -->
   <project path="kernel/lge/mako" name="TheSchismROM/android_kernel_lge_mako" remote="github" revision="kk-4.4" />
   <project path="kernel/lge/hammerhead" name="TheSchismROM/android_kernel_lge_hammerhead" remote="github" revision="kk-4.4" />
   
-  <!-- I should really find out what there are for -->
+  <!-- Extra Tools for Compiling -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -122,7 +123,7 @@
   <project path="external/expat" name="platform/external/expat" groups="pdk" />
   <project path="external/eyes-free" name="platform/external/eyes-free" />
   <project path="external/fdlibm" name="platform/external/fdlibm" />
-  <project path="external/flac" name="Mahdi-Rom/android_external_flac" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="external/flac" name="platform/external/flac" groups="pdk" revision="master" />
   <project path="external/freetype" name="platform/external/freetype" groups="pdk" />
   <project path="external/fsck_msdos" name="Mahdi-Rom/android_external_fsck_msdos" remote="github" revision="kk-4.4" />
   <project path="external/fuse" name="Mahdi-Rom/android_external_fuse" groups="pdk" remote="github" revision="kk-4.4" />
@@ -156,10 +157,14 @@
   <project path="external/junit" name="platform/external/junit" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
   <project path="external/kissfft" name="Mahdi-Rom/android_external_kissfft" groups="pdk" remote="github" revision="kk-4.4" />
+
+  <!-- Soon to be removed - On death page -->
   <project path="external/koush/Superuser" name="TheSchismROM/android_external_koush_Superuser" remote="github" revision="kk-4.4" />
   <project path="external/koush/Widgets" name="TheSchismROM/android_external_koush_Widgets" remote="github" revision="kk-4.4" />
   <project path="external/koush/ion" name="Mahdi-Rom/android_external_koush_ion" remote="github" revision="kk-4.4" />
   <project path="external/koush/AndroidAsync" name="Mahdi-Rom/android_external_koush_AndroidAsync" remote="github" revision="kk-4.4" />
+
+  <!-- Extra Compiling Tools -->
   <project path="external/libcap-ng" name="platform/external/libcap-ng" />
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" />
@@ -318,8 +323,6 @@
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" />
   <project path="hardware/qcom/wlan" name="TheSchismROM/android_hardware_qcom_wlan" groups="qcom" remote="github" revision="kk-4.4" />
   <project path="hardware/ril" name="TheSchismROM/android_hardware_ril" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="hardware/samsung" name="Mahdi-Rom/android_hardware_samsung" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" groups="exynos5" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
@@ -348,9 +351,8 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/InCallUI" name="TheSchismROM/android_packages_apps_InCallUI" remote="github" revision="kk-4.4" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/LockClock" name="TheSchismROM/android_packages_apps_LockClock" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Launcher2" name="TheSchismROM/android_packages_apps_Launcher2" remote="github" revision="kk-4.4" />
-  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
+  <project path="packages/apps/Launcher3" name="Mahdi-Rom/android_packages_apps_Launcher3" remote="github" revision="kk-4.4" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/Mms" name="TheSchismROM/android_packages_apps_Mms" remote="github" revision="kk-4.4" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
@@ -470,21 +472,8 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 
-    <!-- Cyanogenmod Devices - No need for them right now 
-  <project path="device/lge/v500" name="Mahdi-Rom/android_device_lge_v500" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/jf-common" name="TheSchismROM/android_device_samsung_jf-common" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/jfltexx" name="TheSchismROM/android_device_samsung_jfltexx" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/msm8960-common" name="TheSchismROM/android_device_samsung_msm8960-common" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/qcom-common" name="TheSchismROM/android_device_samsung_qcom-common" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/galaxysmtd" name="TheSchismROM/android_device_samsung_galaxysmtd" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/aries-common" name="TheSchismROM/android_device_samsung_aries-common" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/i9100" name="TheSchismROM/android_device_samsung_i9100" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/galaxys2-common" name="TheSchismROM/android_device_samsung_galaxys2-common" remote="github" revision="kk-4.4" />
-  -->
-
   <!--CyanogenMod Extras -->
   <project path="hardware/cm" name="TheSchismROM/android_hardware_cm" remote="github" revision="kk-4.4" />
-  <project path="packages/apps/VoicePlus" name="Mahdi-Rom/android_packages_apps_VoicePlus" remote="github" revision="kk-4.4" />
 
   <!-- The Schism Vendor Projects -->
   <project path="vendor/schism" name="TheSchismROM/android_vendor_schism" remote="github" revision="kk-4.4" >
@@ -493,12 +482,10 @@
   <project path="vendor/lge" name="TheSchismROM/android_vendor_lge" remote="github" revision="kk-4.4" />
   <project path="vendor/qcom" name="TheSchismROM/android_vendor_qcom" remote="github" revision="kk-4.4" />
   <project path="vendor/broadcom" name="TheSchismROM/android_vendor_broadcom" remote="github" revision="kk-4.4" />
-  <project path="packages/apps/MahdiCenter" name="Mahdi-Rom/android_packages_apps_MahdiCenter" remote="github" revision="kk-4.4" />
 
-  <!-- Theme Manager -->
+  <!-- Theme Manager; The following projects are on the death page -->
   <project path="vendor/tmobile/apps/ThemeChooser" name="Mahdi-Rom/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="kk-4.4" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="Mahdi-Rom/android_vendor_tmobile_libs_com.tmobile.themes" remote="github" revision="kk-4.4" />
   <project path="vendor/tmobile/providers/ThemeManager" name="Mahdi-Rom/android_vendor_tmobile_providers_ThemeManager" remote="github" revision="kk-4.4" />
-  <!-- The above 3 projects are subject to killing soon -->
 
 </manifest>
