@@ -337,7 +337,7 @@
   <project path="packages/apps/Browser" name="TheSchismROM/android_packages_apps_Browser" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Calculator" name="TheSchismROM/android_packages_apps_Calculator" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Calendar" name="TheSchismROM/android_packages_apps_Calendar" remote="github" revision="kk-4.4" />
-  <project path="packages/apps/Camera2" name="TheSchismROM/android_packages_apps_Camera2" remote="github" revision="kk-4.4-aosp" />
+  <project path="packages/apps/Camera2" name="TheSchismROM/android_packages_apps_Camera2" remote="github" revision="kk-4.4" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="TheSchismROM/android_packages_apps_Contacts" remote="github" revision="kk-4.4" />
