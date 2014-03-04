@@ -281,6 +281,7 @@
   <project path="frameworks/native" name="TheSchismROM/android_frameworks_native" groups="pdk" remote="github" revision="kk-4.4-aosp" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" />
+  <project path="frameworks/opts/cards" name="TheSchismROM/android_frameworks_opt_cards" remote="github" revision="kk-4.4" />
   <project path="frameworks/opt/colorpicker" name="TheSchismROM/android_frameworks_opt_colorpicker" remote="github" revision="kk-4.4" />
   <project path="frameworks/opt/datetimepicker" name="TheSchismROM/android_frameworks_opt_datetimepicker" remote="github" revision="kk-4.4" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
