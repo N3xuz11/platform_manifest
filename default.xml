@@ -48,7 +48,6 @@
   <project path="device/lge/mako" name="TheSchismROM/android_device_lge_mako" groups="device,mako" remote="github" revision="kk-4.4" />
   <project path="device/lge/hammerhead-kernel" name="device/lge/hammerhead-kernel" groups="device,hammerhead" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" />
-
   
   <!-- Nexus Kernel Projects -->
   <project path="kernel/lge/mako" name="TheSchismROM/android_kernel_lge_mako" remote="github" revision="kk-4.4" />
@@ -160,7 +159,7 @@
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
   <project path="external/kissfft" name="Mahdi-Rom/android_external_kissfft" groups="pdk" remote="github" revision="kk-4.4" />
 
-  <!-- Soon to be removed - On death page -->
+  <!-- Koush Tools -->
   <project path="external/koush/Superuser" name="TheSchismROM/android_external_koush_Superuser" remote="github" revision="kk-4.4" />
   <project path="external/koush/Widgets" name="TheSchismROM/android_external_koush_Widgets" remote="github" revision="kk-4.4" />
   <project path="external/koush/ion" name="Mahdi-Rom/android_external_koush_ion" remote="github" revision="kk-4.4" />
@@ -486,7 +485,6 @@
   <project path="vendor/qcom" name="TheSchismROM/android_vendor_qcom" remote="github" revision="kk-4.4" />
   <project path="vendor/broadcom" name="TheSchismROM/android_vendor_broadcom" remote="github" revision="kk-4.4" />
 
-  <!-- Theme Manager; The following projects are on the death page -->
   <project path="vendor/tmobile/apps/ThemeChooser" name="Mahdi-Rom/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="kk-4.4" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="Mahdi-Rom/android_vendor_tmobile_libs_com.tmobile.themes" remote="github" revision="kk-4.4" />
   <project path="vendor/tmobile/providers/ThemeManager" name="Mahdi-Rom/android_vendor_tmobile_providers_ThemeManager" remote="github" revision="kk-4.4" />
