@@ -43,20 +43,10 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   
-  <!-- Nexus Device Projects -->
-  <project path="device/lge/hammerhead" name="TheSchismROM/android_device_lge_hammerhead" groups="device,hammerhead" remote="github" revision="kk-4.4" />
-  <project path="device/lge/mako" name="TheSchismROM/android_device_lge_mako" groups="device,mako" remote="github" revision="kk-4.4" />
-  <project path="device/lge/hammerhead-kernel" name="device/lge/hammerhead-kernel" groups="device,hammerhead" />
-  <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" />
-
   <!-- Non Nexus Device Projects -->
   <project path="device/samsung/jflte" name="TheSchismROM/android_device_samsung_jflte" groups="device,jflte" remote="github" revision="kk-4.4" />
   <project path="device/samsung/msm8960-common" name="TheSchismROM/android_device_samsung_msm8960-common" groups="device,msm8960-common" remote="github" revision="kk-4.4" />
   <project path="device/samsung/qcom-common" name="TheSchismROM/android_device_samsung_qcom-common" groups="device,qcom-common" remote="github" revision="kk-4.4" />
-  
-  <!-- Nexus Kernel Projects -->
-  <project path="kernel/lge/mako" name="TheSchismROM/android_kernel_lge_mako" remote="github" revision="kk-4.4" />
-  <project path="kernel/lge/hammerhead" name="TheSchismROM/android_kernel_lge_hammerhead" remote="github" revision="kk-4.4" />
   
   <!-- Non Nexus Kernel Projects -->
    <project path="kernel/samsung/jf" name="TheSchismROM/android_kernel_samsung_jf" remote="github" revision="kk-4.4" />
