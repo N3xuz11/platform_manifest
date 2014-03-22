@@ -6,13 +6,17 @@ I would recommened you to checkout the OmniRom wiki or Cyanogenmod Wiki as they 
 
 Commands to input after your "schism" directory is made and you are in the directory in Terminal
 
-For Non-caf or Nexus Device compiling please use:
+If you are compiling for Nexus/Non-CAF devices please use:
 
 $ repo init -u git://github.com/TheSchismROM/platform_manifest.git -b kk-4.4
 
-For -caf (or code aurora format) Devices please use: 
+If you are compiling for any Non-Nexus/CAF devices please use: 
 
 $ repo init -u git://github.com/TheSchismROM/platform_manifest.git -b kk-4.4-caf
+
+---
+
+Once you've inputted one of the above commands, enter the following:
 
 $ repo sync -j4
 
@@ -22,4 +26,4 @@ If you would like to help us and contribute to our code, please either contact m
 
 <b>
 The Schism Team
-</b>s
+</b>
