@@ -30,7 +30,6 @@
 
   <!-- Devices we support/Device Projects -->
   <project path="device/common" name="device/common" />
-  <project path="device/qcom_common" name="device/qcom_common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" />
