@@ -6,7 +6,10 @@ I would recommened you to checkout the OmniRom wiki or Cyanogenmod Wiki as they 
 
 Commands to input after your "schism" directory is made and you are in the directory in Terminal
 
-$ repo init -u git://github.com/TheSchismROM/platform_manifest.git -b kk-4.4
+Before entering the following command, you should know the following command will sync for Non-Nexus Devices.
+So you may build only Non-Nexus devices unless you know how to main local manifests and have mastered git ;) 
+
+$ repo init -u git://github.com/TheSchismROM/platform_manifest.git -b kk-4.4-caf
 
 $ repo sync -j4
 
