@@ -344,7 +344,7 @@
   <project path="packages/apps/DeskClock" name="TheSchismROM/android_packages_apps_DeskClock" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Dialer" name="TheSchismROM/android_packages_apps_Dialer" remote="github" revision="kk-4.4" />
   <project path="packages/apps/DSPManager" name="TheSchismROM/android_packages_apps_DSPManager" remote="github" revision="kk-4.4" />
-  <project path="packages/apps/Email" name="platform/packages/apps/Email" />
+  <project path="packages/apps/Email" name="TheSchismROM/android_packages_apps_Email" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery2" name="TheSchismROM/android_packages_apps_Gallery2" remote="github" revision="kk-4.4-caf" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
