@@ -51,15 +51,7 @@
   <!-- Nexus Kernel Projects -->
   <project path="kernel/lge/mako" name="TheSchismROM/android_kernel_lge_mako" remote="github" revision="kk-4.4" />
   <project path="kernel/lge/hammerhead" name="TheSchismROM/android_kernel_lge_hammerhead" remote="github" revision="kk-4.4" />
-
-  <!-- Non-Nexus Device Projects -->
-  <project path="device/samsung/jflte" name="TheSchismROM/android_device_samsung_jflte" groups="device,jflte" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/msm8960-common" name="TheSchismROM/android_device_samsung_msm8960-common" groups="device,msm8960-common" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/qcom-common" name="TheSchismROM/android_device_samsung_qcom-common" groups="device,qcom-common" remote="github" revision="kk-4.4" />
-
-  <!-- Non-Nexus Kernel Projects -->
-  <project path="kernel/samsung/jf" name="TheSchismROM/android_kernel_samsung_jf" remote="github" revision="kk-4.4" />
-
+  
   <!-- Extra Tools for Compiling -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
@@ -489,11 +481,9 @@
     <copyfile src="build.sh" dest="build.sh" />
   </project>
   <project path="vendor/lge" name="TheSchismROM/android_vendor_lge" remote="github" revision="kk-4.4" />
-  <project path="vendor/samsung" name="TheSchismROM/android_vendor_samsung" remote="github" revision="kk-4.4" /> 
   <project path="vendor/qcom" name="TheSchismROM/android_vendor_qcom" remote="github" revision="kk-4.4" />
   <project path="vendor/broadcom" name="TheSchismROM/android_vendor_broadcom" remote="github" revision="kk-4.4" />
 
-  <!-- Theme Manager - Removal planned -->
   <project path="vendor/tmobile/apps/ThemeChooser" name="Mahdi-Rom/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="kk-4.4" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="Mahdi-Rom/android_vendor_tmobile_libs_com.tmobile.themes" remote="github" revision="kk-4.4" />
   <project path="vendor/tmobile/providers/ThemeManager" name="Mahdi-Rom/android_vendor_tmobile_providers_ThemeManager" remote="github" revision="kk-4.4" />
