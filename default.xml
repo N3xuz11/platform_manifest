@@ -30,6 +30,9 @@
 
   <!-- Devices we support/Device Projects -->
   <project path="device/common" name="device/common" />
+  <project path="device/samsung/msm8960-common" name="TheSchismROM/android_device_samsung_msm8960-common" groups="device,msm8960-common" remote="github" revision="kk-4.4" />
+  <project path="device/samsung/qcom-common" name="TheSchismROM/android_device_samsung_qcom-common" groups="device,qcom-common" remote="github" revision="kk-4.4" />
+  <project path="device/samsung/omap4-common" name="TheSchismROM/android_device_samsung_omap4-common" remote="github" revision="kk-4.4" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" />
@@ -45,11 +48,13 @@
   <!-- Non-Nexus Device Projects -->
   <project path="device/samsung/jflte" name="TheSchismROM/android_device_samsung_jflte" groups="device,jflte" remote="github" revision="kk-4.4" />
   <project path="device/samsung/d2lte" name="TheSchismROM/android_device_samsung_d2lte" groups="device,d2lte" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/msm8960-common" name="TheSchismROM/android_device_samsung_msm8960-common" groups="device,msm8960-common" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/qcom-common" name="TheSchismROM/android_device_samsung_qcom-common" groups="device,qcom-common" remote="github" revision="kk-4.4" />
-  
+  <project path="device/samsung/p3100" name="TheSchismROM/android_device_samsung_p3100" groups="device,p3100" remote="github" revision="kk-4.4" />
+  <project path="device/samsung/p3110" name="TheSchismROM/android_device_samsung_p3110" groups="device,p3100" remote="github" revision="kk-4.4" />
+
   <!-- Non-Nexus Kernel Projects -->
-   <project path="kernel/samsung/jf" name="TheSchismROM/android_kernel_samsung_jf" remote="github" revision="kk-4.4" />
+  <project path="kernel/samsung/jf" name="TheSchismROM/android_kernel_samsung_jf" remote="github" revision="kk-4.4" />
+  <project path="kernel/samsung/d2" name="TheSchismROM/android_kernel_samsung_d2" remote="github" revision="kk-4.4" />
+  <project path="kernel/samsung/espresso10" name="TheSchismROM/android_kernel_samsung_espresso10" remote="github" revision="kk-4.4" />
   
   <!-- Extra Tools for Compiling -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
