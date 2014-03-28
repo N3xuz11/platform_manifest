@@ -44,6 +44,7 @@
   
   <!-- Non-Nexus Device Projects -->
   <project path="device/samsung/jflte" name="TheSchismROM/android_device_samsung_jflte" groups="device,jflte" remote="github" revision="kk-4.4" />
+  <project path="device/samsung/d2lte" name="TheSchismROM/android_device_samsung_d2lte" groups="device,d2lte" remote="github" revision="kk-4.4" />
   <project path="device/samsung/msm8960-common" name="TheSchismROM/android_device_samsung_msm8960-common" groups="device,msm8960-common" remote="github" revision="kk-4.4" />
   <project path="device/samsung/qcom-common" name="TheSchismROM/android_device_samsung_qcom-common" groups="device,qcom-common" remote="github" revision="kk-4.4" />
   
