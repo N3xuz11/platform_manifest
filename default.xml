@@ -324,7 +324,7 @@
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" />
   <project path="hardware/qcom/wlan" name="TheSchismROM/android_hardware_qcom_wlan" groups="qcom" remote="github" revision="kk-4.4" />
   <project path="hardware/ril" name="TheSchismROM/android_hardware_ril" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="hardware/ti/omap3" name="TheSchismROM/android_hardware_ti_omap3" remote="github" revision="kk-4.4" />
+  <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" remote="github" revision="kk-4.4" />
   <project path="hardware/ti/omap4xxx" name="TheSchismROM/android_hardware_ti_omap4xxx" groups="omap4" remote="github" revision="kk-4.4" />
   <project path="hardware/ti/wlan" name="TheSchismROM/android_hardware_ti_wlan" remote="github" revision="kk-4.4" />
   <project path="hardware/ti/wpan" name="TheSchismROM/android_hardware_ti_wpan" remote="github" revision="kk-4.4" />
