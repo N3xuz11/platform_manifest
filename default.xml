@@ -47,10 +47,13 @@
   <project path="device/lge/mako" name="TheSchismROM/android_device_lge_mako" groups="device,mako" remote="github" revision="kk-4.4" />
   <project path="device/lge/hammerhead-kernel" name="device/lge/hammerhead-kernel" groups="device,hammerhead" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" />
+  <project path="device/asus/flo" name="TheSchismROM/android_device_asus_flo" groups="device,flo" remote="github" revision="kk-4.4" />
+  <project path="device/asus/flo-kernel" name="device/asus/flo-kernel" groups="device,flo" />
   
   <!-- Nexus Kernel Projects -->
   <project path="kernel/lge/mako" name="TheSchismROM/android_kernel_lge_mako" remote="github" revision="kk-4.4" />
   <project path="kernel/lge/hammerhead" name="TheSchismROM/android_kernel_lge_hammerhead" remote="github" revision="kk-4.4" />
+  <project path="kernel/asus/flo" name="TheSchismROM/android_kernel_asus_flo" remote="github" revision="kk-4.4" />
   
   <!-- Extra Tools for Compiling -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
@@ -481,6 +484,7 @@
     <copyfile src="build.sh" dest="build.sh" />
   </project>
   <project path="vendor/lge" name="TheSchismROM/android_vendor_lge" remote="github" revision="kk-4.4" />
+  <project path="vendor/asus" name="TheSchismROM/android_vendor_asus" remote="github" revision="kk-4.4" />
   <project path="vendor/qcom" name="TheSchismROM/android_vendor_qcom" remote="github" revision="kk-4.4" />
   <project path="vendor/broadcom" name="TheSchismROM/android_vendor_broadcom" remote="github" revision="kk-4.4" />
 
