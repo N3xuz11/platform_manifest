@@ -239,7 +239,7 @@
   <project path="external/sepolicy" name="Mahdi-Rom/android_external_sepolicy" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="external/sfntly" name="platform/external/sfntly" />
   <project path="external/sil-fonts" name="platform/external/sil-fonts" />
-  <project path="external/skia" name="Mahdi-Rom/android_external_skia" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="external/skia" name="TheSchismROM/android_external_skia" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="external/smack" name="platform/external/smack" />
   <project path="external/smali" name="platform/external/smali" />
   <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" />
@@ -488,8 +488,8 @@
   <project path="vendor/qcom" name="TheSchismROM/android_vendor_qcom" remote="github" revision="kk-4.4" />
   <project path="vendor/broadcom" name="TheSchismROM/android_vendor_broadcom" remote="github" revision="kk-4.4" />
 
-  <project path="vendor/tmobile/apps/ThemeChooser" name="Mahdi-Rom/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="kk-4.4" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="Mahdi-Rom/android_vendor_tmobile_libs_com.tmobile.themes" remote="github" revision="kk-4.4" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="Mahdi-Rom/android_vendor_tmobile_providers_ThemeManager" remote="github" revision="kk-4.4" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="TheSchismROM/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="kk-4.4" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="TheSchismROM/android_vendor_tmobile_libs_com.tmobile.themes" remote="github" revision="kk-4.4" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="TheSchismROM/android_vendor_tmobile_providers_ThemeManager" remote="github" revision="kk-4.4" />
 
 </manifest>
