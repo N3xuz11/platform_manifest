@@ -55,6 +55,7 @@
   <project path="kernel/samsung/jf" name="TheSchismROM/android_kernel_samsung_jf" remote="github" revision="kk-4.4" />
   <project path="kernel/samsung/d2" name="TheSchismROM/android_kernel_samsung_d2" remote="github" revision="kk-4.4" />
   <project path="kernel/samsung/espresso10" name="TheSchismROM/android_kernel_samsung_espresso10" remote="github" revision="kk-4.4" />
+  <project path="kernel/samsung/epicmtd" name="TheSchismROM/android_kernel_samsung_epicmtd" remote="github" revision="kk-4.4" />
   
   <!-- Extra Tools for Compiling -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
