@@ -50,6 +50,7 @@
   <project path="device/samsung/d2lte" name="TheSchismROM/android_device_samsung_d2lte" groups="device,d2lte" remote="github" revision="kk-4.4" />
   <project path="device/samsung/p3100" name="TheSchismROM/android_device_samsung_p3100" groups="device,p3100" remote="github" revision="kk-4.4" />
   <project path="device/samsung/p3110" name="TheSchismROM/android_device_samsung_p3110" groups="device,p3100" remote="github" revision="kk-4.4" />
+  <project path="device/samsung/epicmtd" name="TheSchismROM/android_device_samsung_epicmtd" groups="device,epicmtd" remote="github" revision="kk-4.4" />
 
   <!-- Non-Nexus Kernel Projects -->
   <project path="kernel/samsung/jf" name="TheSchismROM/android_kernel_samsung_jf" remote="github" revision="kk-4.4" />
