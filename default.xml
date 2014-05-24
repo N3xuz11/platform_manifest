@@ -409,7 +409,7 @@
   <project path="pdk" name="platform/pdk" groups="pdk" />
 
   <!-- The Schism Toolchains --> 
-  <project path="prebuilts/gcc/linux-x86/arm/linaro-4.7-13.04" name="TheSchismROM/android_prebuilts_gcc_linux-x86_arm_linaro-4.7-13.04" remote="github" revision="kk-4.4" />
+  <project path="prebuilts/gcc/linux-x86/arm/linaro-4.7-13.04" name="TheSchismROM/android_prebuilts_linaro-4.7-13.04" remote="github" revision="kk-4.4" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="pdk,darwin" />
