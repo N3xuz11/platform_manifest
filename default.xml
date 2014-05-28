@@ -414,10 +414,7 @@
 
   <!-- The Schism Toolchains --> 
   <project path="prebuilts/gcc/linux-x86/arm/linaro-4.7-13.04" name="TheSchismROM/android_prebuilts_linaro-4.7-13.04" remote="github" revision="kk-4.4" />
-<<<<<<< HEAD
   <project path="prebuilts/gcc/linux-x86/arm/boosted-arm-linux-androideabi-4.7" name="TheSchismROM/arm_boosted-arm-linux-androideabi-4.7" remote="github" revision="kk-4.4" />
-=======
->>>>>>> 5dd29eee8341262aa0c7b15b7e729c29610ccea9
 
   <!-- Prebuilts -->
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="pdk,darwin" />
