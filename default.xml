@@ -417,7 +417,6 @@
 
   <!-- The Schism Toolchains --> 
   <project path="prebuilts/gcc/linux-x86/arm/linaro-4.7-13.04" name="TheSchismROM/android_prebuilts_linaro-4.7-13.04" remote="github" revision="kk-4.4" />
-  <project path="prebuilts/gcc/linux-x86/arm/boosted-arm-linux-androideabi-4.7" name="TheSchismROM/arm_boosted-arm-linux-androideabi-4.7" remote="github" revision="kk-4.4" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" name="TheSchismROM/arm_boosted-arm-linux-androideabi-4.7" remote="github" revision="kk-4.4" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-cortex-a15-linaro4.9-a15" name="TheSchismROM/arm-cortex-a15-linaro4.9-a15" remote="github" revision="kk-4.4" />
 
