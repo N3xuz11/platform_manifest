@@ -41,7 +41,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" groups="pdk" />
-  
+
   <!-- Nexus Device Projects -->
   <project path="device/lge/hammerhead" name="TheSchismROM/android_device_lge_hammerhead" groups="device,hammerhead" remote="github" revision="kk-4.4" />
   <project path="device/lge/mako" name="TheSchismROM/android_device_lge_mako" groups="device,mako" remote="github" revision="kk-4.4" />
@@ -54,6 +54,9 @@
   <project path="kernel/lge/mako" name="TheSchismROM/android_kernel_lge_mako" remote="github" revision="kk-4.4" />
   <project path="kernel/lge/hammerhead" name="TheSchismROM/android_kernel_lge_hammerhead" remote="github" revision="kk-4.4" />
   <project path="kernel/asus/flo" name="TheSchismROM/android_kernel_asus_flo" remote="github" revision="kk-4.4" />
+
+  <!-- Tools from The Schism - External -->
+  <project path="external/android-visualizer" name="TheSchismROM/android_external_android-visualizer" remote="github" revision="kk-4.4" />
   
   <!-- Extra Tools for Compiling -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
